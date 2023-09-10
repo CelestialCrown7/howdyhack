@@ -15,7 +15,4 @@ def citytocode(citname):
         return iata_codes
     else:
         return None
-    
-user_in = input("cityname: ") #placeholder
 
-print(citytocode(user_in)) #placeholder
